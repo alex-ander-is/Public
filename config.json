@@ -1,0 +1,8 @@
+{
+    "serviceDictionary": {
+        "userProfile": {
+            "path": "https://raw.githack.com/alex-ander-is/Public/master/userProfile.json",
+            "refreshTimeout": 3
+        }
+    }
+}
